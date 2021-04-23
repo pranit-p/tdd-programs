@@ -4,4 +4,4 @@
 2.  Mainly test directory is used for testing the code that are created or written in main or any other directory.
 3  for setup testing folder as a test folder we need some configuration on intellJ with the test folder
 3. go to project structure in file menu then go to module then go to source and then click on that folder you want to create as a test then at top click on 
-    mark as a test then click on apply then ok so it register your folder as a test folder and then you good to go   
+    mark as a test then click on apply then ok so it register your folder as a test folder and then you good to go   # we use react for front end kotlin for backend for reating services and we use Dynamo db for database
