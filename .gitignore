@@ -2,3 +2,5 @@ out/
 .idea/
 .DS_Store
 lib/
+tdd-ssh-key
+tdd-ssh-key.pub
